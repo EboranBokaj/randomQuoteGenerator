@@ -1,5 +1,3 @@
-//import "./styles.css";
-
 import QuoteBox from "./components/QuoteBox.js";
 
 export default function App() {
